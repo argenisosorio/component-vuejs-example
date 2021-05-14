@@ -1,4 +1,4 @@
-<h3>My first component in VueJS</h3>
+<h3>Basic example of a Vuejs componentS</h3>
 
 <p>Basic example of how to create a component in VueJS and use directives of Vuejs.</p>
 
